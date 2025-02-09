@@ -1,8 +1,9 @@
 ### Hi there 👋
 Deshmukh-4321
 Komal Deshmukh
-I am currently learning Bca ty
-I am looking for job
+🌱I am currently learning Fy-MCA
+🔭 I’m currently working on Java.
+👯 I’m looking to collaborate on technical projects...
 
 <!--
 **Deshmukh-4321/Deshmukh-4321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
